@@ -1,0 +1,56 @@
+.banner {
+    background: url("https://images.8tracks.com/cover/i/009/233/161/background-beautiful-flowers-perfect-Favim.com-2062233-9657.jpg?rect=0,124,500,500&q=98&fm=jpg&fit=max");
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: aliceblue;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: aliceblue;
+    background-color: #dc3545;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 35px;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.tim img {
+    width: 250px;
+    border:10px solid #ffffff
+}
+
+a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #3DB2FF;
+    border-radius: 50%;
+    background-color: #ffffff;
+    line-height: 40px;
+}
+
+.client img {
+    height: auto;
+    max-height: 50px;
+}
+
+.kontak {
+    background: url(https://wallpapercave.com/wp/wp7166539.jpg);
+    no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #ffffff;
+}
